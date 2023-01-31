@@ -1,0 +1,516 @@
+{
+    "Level_System": [
+        {
+            "Level": 0,
+            "exp": 0,
+            "money": 0.0
+        },
+        {
+            "Level": 1,
+            "exp": 3,
+            "money": 12.5
+        },
+        {
+            "Level": 2,
+            "exp": 7,
+            "money": 25.0
+        },
+        {
+            "Level": 3,
+            "exp": 12,
+            "money": 37.5
+        },
+        {
+            "Level": 4,
+            "exp": 20,
+            "money": 50.0
+        },
+        {
+            "Level": 5,
+            "exp": 30,
+            "money": 62.5
+        },
+        {
+            "Level": 6,
+            "exp": 42,
+            "money": 75.0
+        },
+        {
+            "Level": 7,
+            "exp": 57,
+            "money": 87.5
+        },
+        {
+            "Level": 8,
+            "exp": 75,
+            "money": 100.0
+        },
+        {
+            "Level": 9,
+            "exp": 96,
+            "money": 112.5
+        },
+        {
+            "Level": 10,
+            "exp": 120,
+            "money": 125.0
+        },
+        {
+            "Level": 11,
+            "exp": 148,
+            "money": 137.5
+        },
+        {
+            "Level": 12,
+            "exp": 180,
+            "money": 150.0
+        },
+        {
+            "Level": 13,
+            "exp": 215,
+            "money": 162.5
+        },
+        {
+            "Level": 14,
+            "exp": 255,
+            "money": 175.0
+        },
+        {
+            "Level": 15,
+            "exp": 300,
+            "money": 187.5
+        },
+        {
+            "Level": 16,
+            "exp": 349,
+            "money": 200.0
+        },
+        {
+            "Level": 17,
+            "exp": 404,
+            "money": 212.5
+        },
+        {
+            "Level": 18,
+            "exp": 464,
+            "money": 225.0
+        },
+        {
+            "Level": 19,
+            "exp": 529,
+            "money": 237.5
+        },
+        {
+            "Level": 20,
+            "exp": 600,
+            "money": 250.0
+        },
+        {
+            "Level": 21,
+            "exp": 677,
+            "money": 262.5
+        },
+        {
+            "Level": 22,
+            "exp": 760,
+            "money": 275.0
+        },
+        {
+            "Level": 23,
+            "exp": 850,
+            "money": 287.5
+        },
+        {
+            "Level": 24,
+            "exp": 947,
+            "money": 300.0
+        },
+        {
+            "Level": 25,
+            "exp": 1050,
+            "money": 312.5
+        },
+        {
+            "Level": 26,
+            "exp": 1161,
+            "money": 325.0
+        },
+        {
+            "Level": 27,
+            "exp": 1279,
+            "money": 337.5
+        },
+        {
+            "Level": 28,
+            "exp": 1404,
+            "money": 350.0
+        },
+        {
+            "Level": 29,
+            "exp": 1538,
+            "money": 362.5
+        },
+        {
+            "Level": 30,
+            "exp": 1680,
+            "money": 375.0
+        },
+        {
+            "Level": 31,
+            "exp": 1830,
+            "money": 387.5
+        },
+        {
+            "Level": 32,
+            "exp": 1989,
+            "money": 400.0
+        },
+        {
+            "Level": 33,
+            "exp": 2157,
+            "money": 412.5
+        },
+        {
+            "Level": 34,
+            "exp": 2334,
+            "money": 425.0
+        },
+        {
+            "Level": 35,
+            "exp": 2520,
+            "money": 437.5
+        },
+        {
+            "Level": 36,
+            "exp": 2716,
+            "money": 450.0
+        },
+        {
+            "Level": 37,
+            "exp": 2922,
+            "money": 462.5
+        },
+        {
+            "Level": 38,
+            "exp": 3137,
+            "money": 475.0
+        },
+        {
+            "Level": 39,
+            "exp": 3363,
+            "money": 487.5
+        },
+        {
+            "Level": 40,
+            "exp": 3600,
+            "money": 500.0
+        },
+        {
+            "Level": 41,
+            "exp": 3847,
+            "money": 512.5
+        },
+        {
+            "Level": 42,
+            "exp": 4106,
+            "money": 525.0
+        },
+        {
+            "Level": 43,
+            "exp": 4376,
+            "money": 537.5
+        },
+        {
+            "Level": 44,
+            "exp": 4657,
+            "money": 550.0
+        },
+        {
+            "Level": 45,
+            "exp": 4950,
+            "money": 562.5
+        },
+        {
+            "Level": 46,
+            "exp": 5255,
+            "money": 575.0
+        },
+        {
+            "Level": 47,
+            "exp": 5572,
+            "money": 587.5
+        },
+        {
+            "Level": 48,
+            "exp": 5902,
+            "money": 600.0
+        },
+        {
+            "Level": 49,
+            "exp": 6245,
+            "money": 612.5
+        },
+        {
+            "Level": 50,
+            "exp": 6600,
+            "money": 625.0
+        },
+        {
+            "Level": 51,
+            "exp": 6969,
+            "money": 637.5
+        },
+        {
+            "Level": 52,
+            "exp": 7351,
+            "money": 650.0
+        },
+        {
+            "Level": 53,
+            "exp": 7746,
+            "money": 662.5
+        },
+        {
+            "Level": 54,
+            "exp": 8156,
+            "money": 675.0
+        },
+        {
+            "Level": 55,
+            "exp": 8580,
+            "money": 687.5
+        },
+        {
+            "Level": 56,
+            "exp": 9018,
+            "money": 700.0
+        },
+        {
+            "Level": 57,
+            "exp": 9471,
+            "money": 712.5
+        },
+        {
+            "Level": 58,
+            "exp": 9939,
+            "money": 725.0
+        },
+        {
+            "Level": 59,
+            "exp": 10422,
+            "money": 737.5
+        },
+        {
+            "Level": 60,
+            "exp": 10920,
+            "money": 750.0
+        },
+        {
+            "Level": 61,
+            "exp": 11434,
+            "money": 762.5
+        },
+        {
+            "Level": 62,
+            "exp": 11964,
+            "money": 775.0
+        },
+        {
+            "Level": 63,
+            "exp": 12509,
+            "money": 787.5
+        },
+        {
+            "Level": 64,
+            "exp": 13071,
+            "money": 800.0
+        },
+        {
+            "Level": 65,
+            "exp": 13650,
+            "money": 812.5
+        },
+        {
+            "Level": 66,
+            "exp": 14245,
+            "money": 825.0
+        },
+        {
+            "Level": 67,
+            "exp": 14858,
+            "money": 837.5
+        },
+        {
+            "Level": 68,
+            "exp": 15488,
+            "money": 850.0
+        },
+        {
+            "Level": 69,
+            "exp": 16135,
+            "money": 862.5
+        },
+        {
+            "Level": 70,
+            "exp": 16800,
+            "money": 875.0
+        },
+        {
+            "Level": 71,
+            "exp": 17483,
+            "money": 887.5
+        },
+        {
+            "Level": 72,
+            "exp": 18184,
+            "money": 900.0
+        },
+        {
+            "Level": 73,
+            "exp": 18904,
+            "money": 912.5
+        },
+        {
+            "Level": 74,
+            "exp": 19643,
+            "money": 925.0
+        },
+        {
+            "Level": 75,
+            "exp": 20400,
+            "money": 937.5
+        },
+        {
+            "Level": 76,
+            "exp": 21177,
+            "money": 950.0
+        },
+        {
+            "Level": 77,
+            "exp": 21973,
+            "money": 962.5
+        },
+        {
+            "Level": 78,
+            "exp": 22788,
+            "money": 975.0
+        },
+        {
+            "Level": 79,
+            "exp": 23624,
+            "money": 987.5
+        },
+        {
+            "Level": 80,
+            "exp": 24480,
+            "money": 1000.0
+        },
+        {
+            "Level": 81,
+            "exp": 25356,
+            "money": 1012.5
+        },
+        {
+            "Level": 82,
+            "exp": 26253,
+            "money": 1025.0
+        },
+        {
+            "Level": 83,
+            "exp": 27171,
+            "money": 1037.5
+        },
+        {
+            "Level": 84,
+            "exp": 28110,
+            "money": 1050.0
+        },
+        {
+            "Level": 85,
+            "exp": 29070,
+            "money": 1062.5
+        },
+        {
+            "Level": 86,
+            "exp": 30052,
+            "money": 1075.0
+        },
+        {
+            "Level": 87,
+            "exp": 31056,
+            "money": 1087.5
+        },
+        {
+            "Level": 88,
+            "exp": 32081,
+            "money": 1100.0
+        },
+        {
+            "Level": 89,
+            "exp": 33129,
+            "money": 1112.5
+        },
+        {
+            "Level": 90,
+            "exp": 34200,
+            "money": 1125.0
+        },
+        {
+            "Level": 91,
+            "exp": 35293,
+            "money": 1137.5
+        },
+        {
+            "Level": 92,
+            "exp": 36410,
+            "money": 1150.0
+        },
+        {
+            "Level": 93,
+            "exp": 37550,
+            "money": 1162.5
+        },
+        {
+            "Level": 94,
+            "exp": 38713,
+            "money": 1175.0
+        },
+        {
+            "Level": 95,
+            "exp": 39900,
+            "money": 1187.5
+        },
+        {
+            "Level": 96,
+            "exp": 41111,
+            "money": 1200.0
+        },
+        {
+            "Level": 97,
+            "exp": 42346,
+            "money": 1212.5
+        },
+        {
+            "Level": 98,
+            "exp": 43606,
+            "money": 1225.0
+        },
+        {
+            "Level": 99,
+            "exp": 44891,
+            "money": 1237.5
+        }
+    ],
+    "Items": [
+        {
+            "id": 0, 
+            "name": "Default", 
+            "price": 0
+        },
+        {
+            "id": 1, 
+            "name": "Uno Reverse Card", 
+            "price": 350
+        }
+    ]
+}
